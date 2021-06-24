@@ -1,0 +1,64 @@
+{
+  "guitars": [
+    {
+      "name": "Eastwood Airline",
+      "price": 8800,
+      "img": "./img/eastwood_airline.jpg",
+      "id": 1
+    },
+    {
+      "name": "Eastwood Tdr",
+      "price": 6200,
+      "img": "./img/eastwood_tdr.jpg",
+      "id": 2
+    },
+    {
+      "name": "Fender Stratocaster",
+      "price": 4320,
+      "img": "./img/fender_stratocaster.jpg",
+      "id": 3
+    },
+    {
+      "name": "Fender Telecaster",
+      "price": 2560,
+      "img": "./img/fender_telecaster.jpg",
+      "id": 4
+    },
+    {
+      "name": "Gibson Les Paul",
+      "price": 7250,
+      "img": "./img/gibson_les_paul.jpg",
+      "id": 5
+    },
+    {
+      "name": "Gibson Rd",
+      "price": 3670,
+      "img": "./img/gibson_rd.jpg",
+      "id": 6
+    },
+    {
+      "name": "Gretsch Bobtail",
+      "price": 5580,
+      "img": "./img/gretsch_boobtail.jpg",
+      "id": 7
+    },
+    {
+      "name": "Gretsch Streamliner",
+      "price": 6440,
+      "img": "./img/gretsch_streamliner.jpg",
+      "id": 8
+    },
+    {
+      "name": "Yamaha F310",
+      "price": 32430,
+      "img": "./img/yamaha_f310.jpg",
+      "id": 9
+    },
+    {
+      "name": "Yamaha Pacifica",
+      "price": 1200,
+      "img": "./img/yamaha_pacifica.jpg",
+      "id": 10
+    }
+  ]
+}
